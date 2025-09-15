@@ -4,6 +4,6 @@
 ## 🚀 Current Projects
 
 ### TicTacToe Game
-**Group members:** David, Niki
+**Group members:** David, Niki, Daniela
 
 ---
