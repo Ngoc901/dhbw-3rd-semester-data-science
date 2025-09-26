@@ -7,3 +7,8 @@
 **Group members:** David, Niki, Daniela
 
 ---
+
+### EDA Project
+**Group members:** Tamino, Ali, Niki, Bogdan
+
+---
