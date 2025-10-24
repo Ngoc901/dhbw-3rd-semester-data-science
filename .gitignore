@@ -19,3 +19,6 @@ __pycache__/
 # Ignore VS Code and PyCharm settings
 .vscode/
 .idea/
+
+#Ignore other's stuff
+17.10/decision-tree-david.py
